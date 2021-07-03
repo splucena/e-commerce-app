@@ -1,0 +1,23 @@
+/*
+    #25274D
+    #464866
+    #AAABBB
+    #2E9CCA
+    #29648A
+*/
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+  background-color: #2d2d2d;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ebebeb;
+  border-top: 1px solid #ebebeb;
+}
+
+.active {
+  background-color: white;
+}
